@@ -26,7 +26,6 @@ int main()
 	}
 
 	fclose(fin);
-
 	printf("%d\n", res);
 
 	return 0;
